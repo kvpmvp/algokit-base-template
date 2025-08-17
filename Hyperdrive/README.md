@@ -1,4 +1,4 @@
-# {{ project_name }}
+# Hyperdrive
 
 Welcome to your new AlgoKit project!
 
