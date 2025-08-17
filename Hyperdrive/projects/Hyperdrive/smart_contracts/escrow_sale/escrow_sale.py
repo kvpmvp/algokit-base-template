@@ -6,7 +6,7 @@ from pyteal import abi
 
 # ---------------- Constants ----------------
 RATE_SCALE = Int(1_000_000)                 # 1 ALGO = 1_000_000 microAlgos
-DURATION_SECONDS = Int(60 * 24 * 60 * 60)   # 60 days
+DURATION_SECONDS = Int(1 * 1 * 1 * 60)   # 60 seconds
 
 # ---------------- Global state keys ----------------
 CREATOR   = Bytes("creator")     # bytes: address
